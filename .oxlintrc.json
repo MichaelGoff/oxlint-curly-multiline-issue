@@ -1,0 +1,11 @@
+{
+  "env": {
+    "browser": true
+  },
+  "categories": {
+    "correctness": "error"
+  },
+  "rules": {
+    "curly": ["error", "multi-line"]
+  }
+}
